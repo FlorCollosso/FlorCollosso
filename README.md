@@ -19,6 +19,7 @@ const FlorCollosso = {
 };
 ```
 
+
 ## 🚀 Tecnologías que uso
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -31,7 +32,6 @@ const FlorCollosso = {
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-<br/>
 
 ## 📈 Estadísticas de GitHub
 
@@ -47,14 +47,10 @@ const FlorCollosso = {
 </table>
 
 
-<br/>
-
-
 ## 📌 Proyectos destacados
 
 [![ficha github](https://github.com/user-attachments/assets/72a35965-7dd5-4017-b356-86bc5648b1f9)](https://florcollosso.github.io/mr-obras/)
 
-<br/>
 
 ## 
 
