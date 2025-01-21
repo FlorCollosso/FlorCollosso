@@ -41,12 +41,14 @@ const FlorCollosso = {
       <img src="https://github-readme-stats.vercel.app/api?username=FlorCollosso&show_icons=true&theme=radical" alt="FlorCollosso's GitHub stats">
     </td>
     <td>
-      <img alt="Coding" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+      <img alt="Coding" src="https://github.com/user-attachments/assets/b18949f4-c17d-42ac-8c32-56506da73e1c">
     </td>
   </tr>
 </table>
 
+
 <br/>
+
 
 ## 📌 Proyectos destacados
 
