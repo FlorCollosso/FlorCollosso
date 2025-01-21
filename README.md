@@ -3,10 +3,23 @@
 ![GitHub followers](https://img.shields.io/github/followers/FlorCollosso?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/FlorCollosso?style=social)
 ![Visitantes](https://komarev.com/ghpvc/?username=FlorCollosso&color=blue)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florencia-collosso/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FlorCollosso)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:florcollosso@gmail.com?subject=Mensaje%20desde%20Github&body=Hola!%20Vi%20tu%20perfil%20en%20Github.)
 
 Soy **diseñadora gráfica y desarrolladora web**, especializada en tecnologías **frontend** y con experiencia en diseño visual, branding y desarrollo de interfaces. Actualmente curso el último año de la **Tecnicatura en Diseño Gráfico y Publicitario**, lo que me permite combinar creatividad con un enfoque técnico.  
 
 Me destaco por mi **curiosidad, proactividad y enfoque en la mejora continua**. Mi objetivo es colaborar en equipos multidisciplinarios, aportando tanto habilidades técnicas como compromiso y empatía. 🚀  
+
+```javascript
+const FlorCollosso = {
+  pronouns: "she" | "her",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "SCSS", "Java"],
+  tools: ["React", "Angular", "Node", "Git", "GitHub"],
+  challenge: "Aprendiendo a ilustrar",
+  funFact: "Amo mucho las plantas, tengo más de 30"
+};
+```
 
 ## 🚀 Tecnologías que uso
 
@@ -24,8 +37,18 @@ Me destaco por mi **curiosidad, proactividad y enfoque en la mejora continua**. 
 
 ## 📈 Estadísticas de GitHub
 
-![FlorCollosso's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlorCollosso&show_icons=true&theme=radical)
+<table style="border: none;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=FlorCollosso&show_icons=true&theme=radical" alt="FlorCollosso's GitHub stats">
+    </td>
+    <td>
+      <img alt="Coding" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+    </td>
+  </tr>
+</table>
 
+<br/>
 
 ## 🖌️ Proyectos destacados
 
@@ -36,28 +59,7 @@ Me destaco por mi **curiosidad, proactividad y enfoque en la mejora continua**. 
 - **[MR Obras](https://florcollosso.github.io/mr-obras/)**  
   Sitio web optimizado para una empresa constructora, con diseño adaptativo y branding visual.  
 
----
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florencia-collosso/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FlorCollosso)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:florcollosso@gmail.com?subject=Mensaje%20desde%20Github&body=Hola!%20Vi%20tu%20perfil%20en%20Github.)
-
-## 🎉 Un poco más sobre mí
-
-```javascript
-const FlorCollosso = {
-  pronouns: "she" | "her",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "SCSS", "Java"],
-  tools: ["React", "Angular", "Node", "Git", "GitHub"],
-  challenge: "Aprendiendo a ilustrar",
-  funFact: "Amo mucho las plantas, tengo más de 30"
-};
-```
-
-### Contactame: 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florencia-collosso/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FlorCollosso) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:florcollosso@gmail.com?subject=Mensaje%20desde%20Github&body=Hola!%20Vi%20tu%20perfil%20en%20Github.)
-
----
+<br/>
 
 ## ⚠️ Advertencia
 
