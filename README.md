@@ -6,6 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florencia-collosso/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FlorCollosso)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:florcollosso@gmail.com?subject=Mensaje%20desde%20Github&body=Hola!%20Vi%20tu%20perfil%20en%20Github.)
+[![Behance](https://img.shields.io/badge/-Behance-0057FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/florcollos491e)
+
 
 Soy **diseñadora gráfica y desarrolladora web**, especializada en tecnologías **frontend** y con experiencia en diseño visual, branding y desarrollo de interfaces. Actualmente curso el último año de la **Tecnicatura en Diseño Gráfico y Publicitario**, lo que me permite combinar creatividad con un enfoque técnico.    
 
