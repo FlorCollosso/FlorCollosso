@@ -7,9 +7,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FlorCollosso)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:florcollosso@gmail.com?subject=Mensaje%20desde%20Github&body=Hola!%20Vi%20tu%20perfil%20en%20Github.)
 
-Soy **diseñadora gráfica y desarrolladora web**, especializada en tecnologías **frontend** y con experiencia en diseño visual, branding y desarrollo de interfaces. Actualmente curso el último año de la **Tecnicatura en Diseño Gráfico y Publicitario**, lo que me permite combinar creatividad con un enfoque técnico.  
-
-Me destaco por mi **curiosidad, proactividad y enfoque en la mejora continua**. Mi objetivo es colaborar en equipos multidisciplinarios, aportando tanto habilidades técnicas como compromiso y empatía. 🚀  
+Soy **diseñadora gráfica y desarrolladora web**, especializada en tecnologías **frontend** y con experiencia en diseño visual, branding y desarrollo de interfaces. Actualmente curso el último año de la **Tecnicatura en Diseño Gráfico y Publicitario**, lo que me permite combinar creatividad con un enfoque técnico.    
 
 ```javascript
 const FlorCollosso = {
@@ -50,22 +48,13 @@ const FlorCollosso = {
 
 <br/>
 
-## 🖌️ Proyectos destacados
+## 📌 Proyectos destacados
 
-- **[Magic Bloom - Proyecto UX/UI](https://www.behance.net/gallery/192733797/Magic-Bloom-Proyecto-Final-Coderhouse)**  
-  Diseño UX/UI para un e-commerce, destacando la experiencia del usuario y el diseño atractivo.  
-- **[Rodanteros - Diseño UX/UI](https://www.behance.net/gallery/197608087/Rodanteros-Proyecto-Final-Diseno-UXUI-Coderhouse)**  
-  Proyecto enfocado en la creación de una interfaz web intuitiva para la comunidad de viajeros.  
-- **[MR Obras](https://florcollosso.github.io/mr-obras/)**  
-  Sitio web optimizado para una empresa constructora, con diseño adaptativo y branding visual.  
+[![ficha github](https://github.com/user-attachments/assets/72a35965-7dd5-4017-b356-86bc5648b1f9)](https://florcollosso.github.io/mr-obras/)
 
 <br/>
 
-## ⚠️ Advertencia
+## 
 
->[!WARNING]
-> Este perfil está en constante actualización. Algunas secciones pueden cambiar frecuentemente a medida que aprendo y trabajo en nuevos proyectos.
-
----
-
-¡Gracias por visitar mi perfil! 😊
+>[!NOTE]
+> Este perfil está en constante evolución, ya que busco reflejar mi crecimiento profesional y personal. Algunas secciones se actualizan con frecuencia a medida que adquiero nuevos conocimientos y trabajo en nuevos proyectos. ¡Gracias por tomarte el tiempo de visitarlo y conocer más sobre mi trabajo!
