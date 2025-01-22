@@ -1,7 +1,6 @@
 # ¡Hola! Soy Florencia Collosso <img src="https://github.com/user-attachments/assets/154897d4-1736-4135-9ace-141755c8c4f1" alt="Descripción del GIF" width="40px">
 
 ![GitHub followers](https://img.shields.io/github/followers/FlorCollosso?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/FlorCollosso?style=social)
 ![Visitantes](https://komarev.com/ghpvc/?username=FlorCollosso&color=blue)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florencia-collosso/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FlorCollosso)
