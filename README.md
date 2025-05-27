@@ -12,9 +12,8 @@ Soy **diseñadora gráfica y desarrolladora web**, especializada en tecnologías
 
 ```javascript
 const FlorCollosso = {
-  skills: ["JavaScript", "TypeScript", "SCSS", "React", "Angular", "Node"],
-  interests: ["Animación", "Videojuegos", "Filosofía", "Viajes", "Arte"],
-  funFact: "Puedo identificar una cantidad importante de plantas (las amo)"
+  funFact: "Puedo identificar una cantidad importante de plantas (las amo)",
+  hobbies: ["Tocar el piano", "Escribir historias", "Hacer journaling", "Dibujar y pintar", "Jugar videojuegos"],
   favorites: {
     series: "The Big Bang Theory",
     games: ["Minecarft", "Assasin's Creed", "Stardew Valley", "Guild Wars 2"],
