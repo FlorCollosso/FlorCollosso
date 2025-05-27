@@ -12,11 +12,15 @@ Soy **diseñadora gráfica y desarrolladora web**, especializada en tecnologías
 
 ```javascript
 const FlorCollosso = {
-  pronouns: "she" | "her",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "SCSS", "Java"],
-  tools: ["React", "Angular", "Node", "Git", "GitHub"],
-  challenge: "Aprendiendo a ilustrar",
-  funFact: "Amo mucho las plantas, tengo más de 30"
+  skills: ["JavaScript", "TypeScript", "SCSS", "React", "Angular", "Node"],
+  interests: ["Animación", "Videojuegos", "Filosofía", "Viajes", "Arte"],
+  funFact: "Puedo identificar una cantidad importante de plantas (las amo)"
+  favorites: {
+    series: "The Big Bang Theory",
+    games: ["Minecarft", "Assasin's Creed", "Stardew Valley", "Guild Wars 2"],
+    tracklist: "Epic: The Musical",
+    bands: ["Måneskin", "Imagine Dragons"]
+  },
 };
 ```
 
