@@ -50,8 +50,9 @@ const FlorCollosso = {
 
 ## 📌 Proyectos destacados
 
-[![ficha github](https://github.com/user-attachments/assets/72a35965-7dd5-4017-b356-86bc5648b1f9)](https://florcollosso.github.io/mr-obras/)
+[![ficha github MR Obras](https://github.com/user-attachments/assets/72a35965-7dd5-4017-b356-86bc5648b1f9)](https://florcollosso.github.io/mr-obras/)
 
+[![ficha github Pokedex](https://github.com/user-attachments/assets/a952624e-c743-4b58-88f6-7867468ad7d1)](https://github.com/FlorCollosso/pokedex/tree/master)
 
 ## 
 
